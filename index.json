@@ -1,11 +1,14 @@
 {
-  "name": "Ryuzaki Extensions",
+  "repo": {
+    "name": "Ryuzaki Extensions",
+    "version": 1
+  },
   "sources": [
     {
-      "name": "Prochan",
       "id": "prochan",
+      "name": "Prochan",
+      "website": "https://prochan.net",
       "version": 1,
-      "url": "https://prochan.net",
       "nsfw": true,
       "language": "en"
     }
