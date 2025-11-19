@@ -1,4 +1,13 @@
 {
   "name": "Ryuzaki Extensions",
-  "sources": []
+  "sources": [
+    {
+      "name": "Prochan",
+      "id": "prochan",
+      "version": 1,
+      "url": "https://prochan.net",
+      "nsfw": true,
+      "language": "en"
+    }
+  ]
 }
